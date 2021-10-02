@@ -1,3 +1,4 @@
+import time
 import turtle
 x = turtle.Turtle()
 x.speed(70)
@@ -61,7 +62,10 @@ for i in range (13):
 	x.circle(l - 25)
 	x.lt(30)
 x.width(0)
-x.pencolor("white")
+x.pencolor("black")
+
 x.lt(90)
-x.fd(250)
-x.write("how's that")
+x.fd(50)
+x.width(10)
+x.fd(200)
+time.sleep(10)
