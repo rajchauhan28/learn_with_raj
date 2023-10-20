@@ -1,3 +1,6 @@
+# This repo is open for hacktoberfest contributors
+Just add any type of python program that might be helpful for someone
+doesn't matter if it's just some cool turtle graphics or a random algorithm
 # Hello there! Let's learn some python.
 In this repo I had added some simple, basic and useful code
 If you are a beginner or teacher or just want to revise
