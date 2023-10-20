@@ -1,5 +1,5 @@
 import turtle
-
+turtle.speed(0)
 turtle.speed(700)
 def tree(length,n):
     
